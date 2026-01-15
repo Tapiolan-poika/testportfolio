@@ -38,11 +38,11 @@ a {
 }
 
 .btn-wrapper {
-  text-align: center;
+  text-align: left;
 }
 
 .btn-wrapper p {
-  margin-bottom: 500px;
+  margin-bottom: 20px;
 }
 
 .signup {
